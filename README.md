@@ -1,4 +1,4 @@
-# Enterprise Transformation Validator
+# AI Regression Detector
 
 Enterprise programs increasingly use AI to transform critical business systems, but leadership teams need evidence they can trust. This project provides a simple validation layer to compare legacy and transformed payloads and surface schema mismatches clearly.
 
